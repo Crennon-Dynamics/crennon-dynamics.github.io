@@ -4,7 +4,7 @@ This is the website for Untie Game Development.
 # Setup
 The website uses jekyll, a static site generator. 
 
-#### MacOS Installation with rbenv
+### MacOS Installation with rbenv
 
 ```
 # Install rbenv: (https://github.com/rbenv/rbenv#using-package-managers)
