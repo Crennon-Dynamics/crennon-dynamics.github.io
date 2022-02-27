@@ -85,6 +85,7 @@ $ echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
 
 ```
 
+To see the source for this setup, see [Jekyll Installation with rbenv](https://gist.github.com/r-brown/a0b50d56cfb3596e0d17).
 
 
 # Github
