@@ -8,6 +8,10 @@ You can add new posts to the `docs/_posts` folder.  Make sure you follow the fil
 
 The pages can be made in markdown or html.  See markdown [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
+### Color Scheme
+
+The Crennon color scheme is here: https://huemint.com/brand-intersection/#palette=fbfffe-2514aa-0090ff-fdaf07
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your 
